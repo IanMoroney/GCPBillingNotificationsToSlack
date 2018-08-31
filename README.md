@@ -8,6 +8,7 @@ The components are organized by folders which contain the following:
 
 * **Full Output** - Provides the full json payload as a slack message (This helps you choose which fields you may want in a smarter, cleaner message).
 * **Smart Output** - Provides a smart, human readable message/alert into the Slack channel.
+* **Budget Output** - Provides a smart, human readable message/alert into the Slack channel only when the budget hits 90% consumption.
 
 ## Getting Started
 
